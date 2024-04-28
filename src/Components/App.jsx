@@ -43,7 +43,7 @@ function App() {
 
 export default App;
 
-//CHALLENGE: 
+//FUNCTIONALITY: 
 //1. Implement the add note functionality
 // - Create a constant that keeps track of the title and content.
 // - Pass the new note back to the App.
