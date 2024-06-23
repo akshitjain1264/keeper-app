@@ -8,7 +8,6 @@
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Installation
@@ -34,3 +33,21 @@
 Start the development server:
 ```sh
 npm start
+
+## Features
+
+1. **Add Tasks**: Easily add new tasks to your to-do list.
+2. **Delete Tasks**: Remove tasks once they are completed.
+3. **Mark as Completed**: Mark tasks as completed to keep track of your progress.
+
+## Contributing
+1. Fork the repository.
+2. Create a new branch **(git checkout -b feature/NewFeature).**
+3. Commit your changes **(git commit -m 'Add new feature'**).
+4. Push to the branch **(git push origin feature/NewFeature)**.
+5. Open a Pull Request.
+
+## Acknowledgements
+React
+Create React App
+FontAwesome
