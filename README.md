@@ -49,6 +49,9 @@ npm start
 5. Open a Pull Request.
 
 ## Acknowledgements
+
 React
+
 Create React App
+
 FontAwesome
