@@ -1,4 +1,4 @@
-# To-Do App
+# Note Keeper App
 
 **Brief Description:** A simple, intuitive to-do list application to help manage your daily tasks.
 
@@ -18,7 +18,7 @@
 **Step-by-step instructions:**
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/todo-app.git
+    git clone https://github.com/yourusername/keeper-app.git
     ```
 2. Navigate to the project directory:
     ```sh
