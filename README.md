@@ -33,6 +33,7 @@
 Start the development server:
 ```sh
 npm start
+```
 
 ## Features
 
